@@ -1,12 +1,14 @@
 *.py[cod]
 MANIFEST
 build/
+*.egg-info/
 dist/
 po/*.mo
 .cache/
 .pc/
 .pybuild/
 .tox/
+.DS_Store
 rednotebook.egg-info
 debian/rednotebook/
 debian/debhelper-build-stamp
